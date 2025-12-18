@@ -1,71 +1,20 @@
-# 👋 Olá, eu sou o Bruno Paim
+## 🚀 Sobre Mim
 
-Desenvolvedor de software focado em criar **aplicações web modernas**, performáticas e bem estruturadas, com atenção a **UX, regras de negócio e qualidade de código**.
+Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos desafios e aprendizados. Atualmente focado em [sua área de interesse/especialização].
 
-Atuo principalmente no desenvolvimento **Front-end com React** e **Back-end com Node.js/NestJS**, construindo sistemas completos, dashboards, formulários complexos e relatórios.
+## 💻 Tecnologias & Ferramentas
 
----
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🚀 Tecnologias & Ferramentas
+## 📫 Como Me Encontrar
 
-### Front-end
-- ⚛️ React / Next.js  
-- 🧩 React Hook Form  
-- 🎨 Tailwind CSS  
-- 🧠 Zod (validação de schemas)  
-- 📊 React Table  
-- 📦 Vite  
-
-### Back-end
-- 🟢 Node.js  
-- 🏗️ NestJS  
-- 🗄️ Prisma ORM  
-- 🔐 Supabase Auth  
-- 🧪 APIs REST  
-
-### Banco de Dados
-- 🐘 PostgreSQL  
-- 🐬 MySQL  
-
-### Relatórios & Utilidades
-- 📄 Geração de PDF e XLSX  
-- 📊 Relatórios financeiros e de estoque  
-- 📦 Handlebars / HTML / CSS  
-
-### Outros
-- 🧰 Git & GitHub  
-- 🐳 Docker  
-- 🧠 Clean Code & Boas práticas  
-- 📝 Validações complexas de regras fiscais (ICMS, CST, CSOSN)
-
----
-
-## 💼 O que você vai encontrar aqui
-
-- 📁 Projetos em **React e NestJS**
-- 🧩 Componentes reutilizáveis
-- 📊 Relatórios dinâmicos (PDF / Excel)
-- 🧠 Exemplos de lógica de negócio complexa
-- 🛠️ Integrações com APIs e bancos de dados
-
----
-
-## 📈 Sempre aprendendo
-
-Estou constantemente evoluindo em:
-- Arquitetura de software
-- Performance de aplicações web
-- Experiência do usuário (UX)
-- Boas práticas de back-end e front-end
-
----
-
-## 📫 Contato
-
-- 💼 LinkedIn: *(adicione aqui se quiser)*
-- 📧 Email: *(opcional)*
-- 🐙 GitHub: https://github.com/seu-usuario
-
----
-
-⭐ Se algum projeto te ajudou ou chamou atenção, fique à vontade para dar uma estrela!
+- 💼 LinkedIn: [Bruno Paim](https://www.linkedin.com/in/bruno-paim-1034381b4/)
+- 📧 Email: bruno.paim00@hotmail.com
+- 🌐 Website: https://southmindly.vercel.app/home
