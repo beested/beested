@@ -1,54 +1,71 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou o Bruno Paim
 
-## 🚀 Sobre Mim
+Desenvolvedor de software focado em criar **aplicações web modernas**, performáticas e bem estruturadas, com atenção a **UX, regras de negócio e qualidade de código**.
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos desafios e aprendizados. Atualmente focado em [sua área de interesse/especialização].
-
-## 💻 Tecnologias & Ferramentas
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)
-
-## 🌱 Atualmente Aprendendo
-
-- [Tecnologia/Framework 1]
-- [Tecnologia/Framework 2]
-- [Conceito/Área de estudo]
-
-## 📫 Como Me Encontrar
-
-- 💼 LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
-- 🐦 Twitter: [@seu_usuario](https://twitter.com/seu_usuario)
-- 📧 Email: seu.email@exemplo.com
-- 🌐 Website: [seusite.com](https://seusite.com)
-
-## 💡 Projetos em Destaque
-
-### [Nome do Projeto 1](link-do-repositorio)
-Breve descrição do projeto e tecnologias utilizadas.
-
-### [Nome do Projeto 2](link-do-repositorio)
-Breve descrição do projeto e tecnologias utilizadas.
-
-### [Nome do Projeto 3](link-do-repositorio)
-Breve descrição do projeto e tecnologias utilizadas.
-
-## 🎯 Objetivos para 2025
-
-- [ ] Contribuir para projetos open source
-- [ ] Aprender [nova tecnologia]
-- [ ] Desenvolver [tipo de projeto]
-- [ ] Compartilhar conhecimento através de artigos/tutoriais
+Atuo principalmente no desenvolvimento **Front-end com React** e **Back-end com Node.js/NestJS**, construindo sistemas completos, dashboards, formulários complexos e relatórios.
 
 ---
 
-⭐️ Sinta-se à vontade para explorar meus repositórios e entrar em contato!
+## 🚀 Tecnologias & Ferramentas
+
+### Front-end
+- ⚛️ React / Next.js  
+- 🧩 React Hook Form  
+- 🎨 Tailwind CSS  
+- 🧠 Zod (validação de schemas)  
+- 📊 React Table  
+- 📦 Vite  
+
+### Back-end
+- 🟢 Node.js  
+- 🏗️ NestJS  
+- 🗄️ Prisma ORM  
+- 🔐 Supabase Auth  
+- 🧪 APIs REST  
+
+### Banco de Dados
+- 🐘 PostgreSQL  
+- 🐬 MySQL  
+
+### Relatórios & Utilidades
+- 📄 Geração de PDF e XLSX  
+- 📊 Relatórios financeiros e de estoque  
+- 📦 Handlebars / HTML / CSS  
+
+### Outros
+- 🧰 Git & GitHub  
+- 🐳 Docker  
+- 🧠 Clean Code & Boas práticas  
+- 📝 Validações complexas de regras fiscais (ICMS, CST, CSOSN)
+
+---
+
+## 💼 O que você vai encontrar aqui
+
+- 📁 Projetos em **React e NestJS**
+- 🧩 Componentes reutilizáveis
+- 📊 Relatórios dinâmicos (PDF / Excel)
+- 🧠 Exemplos de lógica de negócio complexa
+- 🛠️ Integrações com APIs e bancos de dados
+
+---
+
+## 📈 Sempre aprendendo
+
+Estou constantemente evoluindo em:
+- Arquitetura de software
+- Performance de aplicações web
+- Experiência do usuário (UX)
+- Boas práticas de back-end e front-end
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: *(adicione aqui se quiser)*
+- 📧 Email: *(opcional)*
+- 🐙 GitHub: https://github.com/seu-usuario
+
+---
+
+⭐ Se algum projeto te ajudou ou chamou atenção, fique à vontade para dar uma estrela!
