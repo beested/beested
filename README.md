@@ -1,6 +1,10 @@
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos desafios e aprendizados. Atualmente focado em [sua área de interesse/especialização].
+Atualmente, atuo como Desenvolvedor Full-Stack na Windel Sistemas, onde participo da evolução do Windel WEB ERP, implementando novas funcionalidades, corrigindo problemas e desenvolvendo soluções voltadas para rotinas reais de empresas.
+
+Tenho experiência no desenvolvimento de sistemas ERP, aplicações fiscais, módulos financeiros e plataformas web internas, atuando tanto no front-end quanto no back-end. No dia a dia, trabalho com React, Next.js, TypeScript e NestJS, além de ferramentas como TanStack Query, TanStack Router, Jotai, Tailwind, Material-UI, Shadcn UI, PostgreSQL, Docker, GitHub e GitFlow.
+
+Minha atuação envolve a construção de interfaces modernas e reutilizáveis, APIs, integrações com serviços externos, autenticação, permissões, validações, regras de negócio, geração de relatórios, emissão e controle de documentos fiscais, processos financeiros e comunicação assíncrona com eventos. Também tenho experiência com manipulação de arquivos Lottie, aplicando animações internas no sistema para melhorar a experiência visual sem perder funcionalidade.
 
 ## 💻 Tecnologias & Ferramentas
 
